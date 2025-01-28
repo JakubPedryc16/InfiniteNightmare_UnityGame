@@ -1,6 +1,6 @@
 # Infinite Nightmare
 
-Infinite Nightmare is a remake of a space shooter game in its early stages, designed to reimagine the classic gameplay in a modern format. This remake introduces key gameplay elements while offering room for growth and future updates.
+Presenting a remake of a space shooter game (SpaceShooter_UnityGame on GitHub), now rebranded as *Infinite Nightmare*. The game is still in its early stages, designed to reimagine the classic gameplay in a modern format. This remake introduces key gameplay elements, while leaving room for expansion and future updates.
 
 ## Features
 
